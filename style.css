@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+.teal {
+    color: #00FFFF;
+}
+
+h2 {
+    background-color: rebeccapurple;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    background-color: #9FC5F8;
+    text-decoration: underline;
+    text-align: right;
+}
